@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "486773bf-c354-b14a-a015-ca41344b0847++3336",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "486773bf-c354-b14a-a015-ca41344b0847++3336" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "486773bf-c354-b14a-a015-ca41344b0847++3336" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "614C0C7D-FAB8-4939-88BA-DC433319C160",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "486773bf-c354-b14a-a015-ca41344b0847++3336" : "fittedSolution\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "fittedSolutionApp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "fittedSolutionApp.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/repo.a1technology.in\/svn\/FittedSolutions",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "486773bf-c354-b14a-a015-ca41344b0847++3336"
+    }
+  ]
+}
